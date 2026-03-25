@@ -2,6 +2,10 @@
 
 An [OpenClaw](https://openclaw.ai) skill that scans your email accounts for registration, welcome, and confirmation emails — and builds a deduplicated, chronological list of every service you've ever signed up for.
 
+## Who is this for?
+
+This skill is for anyone who wants a clear overview of all the online services and accounts they've signed up for over the years — for example to **deactivate or delete old accounts**, reduce their digital footprint, clean up unused subscriptions, or simply regain control over their online presence. Instead of trying to remember every service manually, the scanner does the work by going through your emails automatically.
+
 ## Supported Providers
 
 | Provider | Access |
